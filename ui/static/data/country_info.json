@@ -1,0 +1,1999 @@
+{
+  "Afghanistan": {
+    "name": "Afghanistan",
+    "alpha3Code": "AFG",
+    "latlng": [
+      33.0,
+      65.0
+    ]
+  },
+  "Åland Islands": {
+    "name": "Åland Islands",
+    "alpha3Code": "ALA",
+    "latlng": [
+      60.116667,
+      19.9
+    ]
+  },
+  "Albania": {
+    "name": "Albania",
+    "alpha3Code": "ALB",
+    "latlng": [
+      41.0,
+      20.0
+    ]
+  },
+  "Algeria": {
+    "name": "Algeria",
+    "alpha3Code": "DZA",
+    "latlng": [
+      28.0,
+      3.0
+    ]
+  },
+  "American Samoa": {
+    "name": "American Samoa",
+    "alpha3Code": "ASM",
+    "latlng": [
+      -14.33333333,
+      -170.0
+    ]
+  },
+  "Andorra": {
+    "name": "Andorra",
+    "alpha3Code": "AND",
+    "latlng": [
+      42.5,
+      1.5
+    ]
+  },
+  "Angola": {
+    "name": "Angola",
+    "alpha3Code": "AGO",
+    "latlng": [
+      -12.5,
+      18.5
+    ]
+  },
+  "Anguilla": {
+    "name": "Anguilla",
+    "alpha3Code": "AIA",
+    "latlng": [
+      18.25,
+      -63.16666666
+    ]
+  },
+  "Antarctica": {
+    "name": "Antarctica",
+    "alpha3Code": "ATA",
+    "latlng": [
+      -74.65,
+      4.48
+    ]
+  },
+  "Antigua and Barbuda": {
+    "name": "Antigua and Barbuda",
+    "alpha3Code": "ATG",
+    "latlng": [
+      17.05,
+      -61.8
+    ]
+  },
+  "Argentina": {
+    "name": "Argentina",
+    "alpha3Code": "ARG",
+    "latlng": [
+      -34.0,
+      -64.0
+    ]
+  },
+  "Armenia": {
+    "name": "Armenia",
+    "alpha3Code": "ARM",
+    "latlng": [
+      40.0,
+      45.0
+    ]
+  },
+  "Aruba": {
+    "name": "Aruba",
+    "alpha3Code": "ABW",
+    "latlng": [
+      12.5,
+      -69.96666666
+    ]
+  },
+  "Australia": {
+    "name": "Australia",
+    "alpha3Code": "AUS",
+    "latlng": [
+      -27.0,
+      133.0
+    ]
+  },
+  "Austria": {
+    "name": "Austria",
+    "alpha3Code": "AUT",
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ]
+  },
+  "Azerbaijan": {
+    "name": "Azerbaijan",
+    "alpha3Code": "AZE",
+    "latlng": [
+      40.5,
+      47.5
+    ]
+  },
+  "The Bahamas": {
+    "name": "The Bahamas",
+    "alpha3Code": "BHS",
+    "latlng": [
+      24.25,
+      -76.0
+    ]
+  },
+  "Bahrain": {
+    "name": "Bahrain",
+    "alpha3Code": "BHR",
+    "latlng": [
+      26.0,
+      50.55
+    ]
+  },
+  "Bangladesh": {
+    "name": "Bangladesh",
+    "alpha3Code": "BGD",
+    "latlng": [
+      24.0,
+      90.0
+    ]
+  },
+  "Barbados": {
+    "name": "Barbados",
+    "alpha3Code": "BRB",
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ]
+  },
+  "Belarus": {
+    "name": "Belarus",
+    "alpha3Code": "BLR",
+    "latlng": [
+      53.0,
+      28.0
+    ]
+  },
+  "Belgium": {
+    "name": "Belgium",
+    "alpha3Code": "BEL",
+    "latlng": [
+      50.83333333,
+      4.0
+    ]
+  },
+  "Belize": {
+    "name": "Belize",
+    "alpha3Code": "BLZ",
+    "latlng": [
+      17.25,
+      -88.75
+    ]
+  },
+  "Benin": {
+    "name": "Benin",
+    "alpha3Code": "BEN",
+    "latlng": [
+      9.5,
+      2.25
+    ]
+  },
+  "Bermuda": {
+    "name": "Bermuda",
+    "alpha3Code": "BMU",
+    "latlng": [
+      32.33333333,
+      -64.75
+    ]
+  },
+  "Bhutan": {
+    "name": "Bhutan",
+    "alpha3Code": "BTN",
+    "latlng": [
+      27.5,
+      90.5
+    ]
+  },
+  "Bolivia": {
+    "name": "Bolivia",
+    "alpha3Code": "BOL",
+    "latlng": [
+      -17.0,
+      -65.0
+    ]
+  },
+  "Bonaire": {
+    "name": "Bonaire",
+    "alpha3Code": "BES",
+    "latlng": [
+      12.15,
+      -68.266667
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "name": "Bosnia and Herzegovina",
+    "alpha3Code": "BIH",
+    "latlng": [
+      44.0,
+      18.0
+    ]
+  },
+  "Botswana": {
+    "name": "Botswana",
+    "alpha3Code": "BWA",
+    "latlng": [
+      -22.0,
+      24.0
+    ]
+  },
+  "Bouvet Island": {
+    "name": "Bouvet Island",
+    "alpha3Code": "BVT",
+    "latlng": [
+      -54.43333333,
+      3.4
+    ]
+  },
+  "Brazil": {
+    "name": "Brazil",
+    "alpha3Code": "BRA",
+    "latlng": [
+      -10.0,
+      -55.0
+    ]
+  },
+  "British Indian Ocean Territory": {
+    "name": "British Indian Ocean Territory",
+    "alpha3Code": "IOT",
+    "latlng": [
+      -6.0,
+      71.5
+    ]
+  },
+  "United States Minor Outlying Islands": {
+    "name": "United States Minor Outlying Islands",
+    "alpha3Code": "UMI",
+    "latlng": []
+  },
+  "Virgin Islands (British)": {
+    "name": "Virgin Islands (British)",
+    "alpha3Code": "VGB",
+    "latlng": [
+      18.431383,
+      -64.62305
+    ]
+  },
+  "Virgin Islands (U.S.)": {
+    "name": "Virgin Islands (U.S.)",
+    "alpha3Code": "VIR",
+    "latlng": [
+      18.34,
+      -64.93
+    ]
+  },
+  "Brunei": {
+    "name": "Brunei",
+    "alpha3Code": "BRN",
+    "latlng": [
+      4.5,
+      114.66666666
+    ]
+  },
+  "Bulgaria": {
+    "name": "Bulgaria",
+    "alpha3Code": "BGR",
+    "latlng": [
+      43.0,
+      25.0
+    ]
+  },
+  "Burkina Faso": {
+    "name": "Burkina Faso",
+    "alpha3Code": "BFA",
+    "latlng": [
+      13.0,
+      -2.0
+    ]
+  },
+  "Burundi": {
+    "name": "Burundi",
+    "alpha3Code": "BDI",
+    "latlng": [
+      -3.5,
+      30.0
+    ]
+  },
+  "Cambodia": {
+    "name": "Cambodia",
+    "alpha3Code": "KHM",
+    "latlng": [
+      13.0,
+      105.0
+    ]
+  },
+  "Cameroon": {
+    "name": "Cameroon",
+    "alpha3Code": "CMR",
+    "latlng": [
+      6.0,
+      12.0
+    ]
+  },
+  "Canada": {
+    "name": "Canada",
+    "alpha3Code": "CAN",
+    "latlng": [
+      60.0,
+      -95.0
+    ]
+  },
+  "Cape Verde": {
+    "name": "Cape Verde",
+    "alpha3Code": "CPV",
+    "latlng": [
+      16.0,
+      -24.0
+    ]
+  },
+  "Cayman Islands": {
+    "name": "Cayman Islands",
+    "alpha3Code": "CYM",
+    "latlng": [
+      19.5,
+      -80.5
+    ]
+  },
+  "Central African Republic": {
+    "name": "Central African Republic",
+    "alpha3Code": "CAF",
+    "latlng": [
+      7.0,
+      21.0
+    ]
+  },
+  "Chad": {
+    "name": "Chad",
+    "alpha3Code": "TCD",
+    "latlng": [
+      15.0,
+      19.0
+    ]
+  },
+  "Chile": {
+    "name": "Chile",
+    "alpha3Code": "CHL",
+    "latlng": [
+      -30.0,
+      -71.0
+    ]
+  },
+  "China": {
+    "name": "China",
+    "alpha3Code": "CHN",
+    "latlng": [
+      35.0,
+      105.0
+    ]
+  },
+  "Christmas Island": {
+    "name": "Christmas Island",
+    "alpha3Code": "CXR",
+    "latlng": [
+      -10.5,
+      105.66666666
+    ]
+  },
+  "Cocos (Keeling) Islands": {
+    "name": "Cocos (Keeling) Islands",
+    "alpha3Code": "CCK",
+    "latlng": [
+      -12.5,
+      96.83333333
+    ]
+  },
+  "Colombia": {
+    "name": "Colombia",
+    "alpha3Code": "COL",
+    "latlng": [
+      4.0,
+      -72.0
+    ]
+  },
+  "Comoros": {
+    "name": "Comoros",
+    "alpha3Code": "COM",
+    "latlng": [
+      -12.16666666,
+      44.25
+    ]
+  },
+  "Republic of the Congo": {
+    "name": "Republic of the Congo",
+    "alpha3Code": "COG",
+    "latlng": [
+      -1.0,
+      15.0
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "name": "Democratic Republic of the Congo",
+    "alpha3Code": "COD",
+    "latlng": [
+      0.0,
+      25.0
+    ]
+  },
+  "Cook Islands": {
+    "name": "Cook Islands",
+    "alpha3Code": "COK",
+    "latlng": [
+      -21.23333333,
+      -159.76666666
+    ]
+  },
+  "Costa Rica": {
+    "name": "Costa Rica",
+    "alpha3Code": "CRI",
+    "latlng": [
+      10.0,
+      -84.0
+    ]
+  },
+  "Croatia": {
+    "name": "Croatia",
+    "alpha3Code": "HRV",
+    "latlng": [
+      45.16666666,
+      15.5
+    ]
+  },
+  "Cuba": {
+    "name": "Cuba",
+    "alpha3Code": "CUB",
+    "latlng": [
+      21.5,
+      -80.0
+    ]
+  },
+  "Curaçao": {
+    "name": "Curaçao",
+    "alpha3Code": "CUW",
+    "latlng": [
+      12.116667,
+      -68.933333
+    ]
+  },
+  "Cyprus": {
+    "name": "Cyprus",
+    "alpha3Code": "CYP",
+    "latlng": [
+      35.0,
+      33.0
+    ]
+  },
+  "Czech Republic": {
+    "name": "Czech Republic",
+    "alpha3Code": "CZE",
+    "latlng": [
+      49.75,
+      15.5
+    ]
+  },
+  "Denmark": {
+    "name": "Denmark",
+    "alpha3Code": "DNK",
+    "latlng": [
+      56.0,
+      10.0
+    ]
+  },
+  "Djibouti": {
+    "name": "Djibouti",
+    "alpha3Code": "DJI",
+    "latlng": [
+      11.5,
+      43.0
+    ]
+  },
+  "Dominica": {
+    "name": "Dominica",
+    "alpha3Code": "DMA",
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ]
+  },
+  "Dominican Republic": {
+    "name": "Dominican Republic",
+    "alpha3Code": "DOM",
+    "latlng": [
+      19.0,
+      -70.66666666
+    ]
+  },
+  "Ecuador": {
+    "name": "Ecuador",
+    "alpha3Code": "ECU",
+    "latlng": [
+      -2.0,
+      -77.5
+    ]
+  },
+  "Egypt": {
+    "name": "Egypt",
+    "alpha3Code": "EGY",
+    "latlng": [
+      27.0,
+      30.0
+    ]
+  },
+  "El Salvador": {
+    "name": "El Salvador",
+    "alpha3Code": "SLV",
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ]
+  },
+  "Equatorial Guinea": {
+    "name": "Equatorial Guinea",
+    "alpha3Code": "GNQ",
+    "latlng": [
+      2.0,
+      10.0
+    ]
+  },
+  "Eritrea": {
+    "name": "Eritrea",
+    "alpha3Code": "ERI",
+    "latlng": [
+      15.0,
+      39.0
+    ]
+  },
+  "Estonia": {
+    "name": "Estonia",
+    "alpha3Code": "EST",
+    "latlng": [
+      59.0,
+      26.0
+    ]
+  },
+  "Ethiopia": {
+    "name": "Ethiopia",
+    "alpha3Code": "ETH",
+    "latlng": [
+      8.0,
+      38.0
+    ]
+  },
+  "Falkland Islands": {
+    "name": "Falkland Islands",
+    "alpha3Code": "FLK",
+    "latlng": [
+      -51.75,
+      -59.0
+    ]
+  },
+  "Faroe Islands": {
+    "name": "Faroe Islands",
+    "alpha3Code": "FRO",
+    "latlng": [
+      62.0,
+      -7.0
+    ]
+  },
+  "Fiji": {
+    "name": "Fiji",
+    "alpha3Code": "FJI",
+    "latlng": [
+      -18.0,
+      175.0
+    ]
+  },
+  "Finland": {
+    "name": "Finland",
+    "alpha3Code": "FIN",
+    "latlng": [
+      64.0,
+      26.0
+    ]
+  },
+  "France": {
+    "name": "France",
+    "alpha3Code": "FRA",
+    "latlng": [
+      46.0,
+      2.0
+    ]
+  },
+  "French Guiana": {
+    "name": "French Guiana",
+    "alpha3Code": "GUF",
+    "latlng": [
+      4.0,
+      -53.0
+    ]
+  },
+  "French Polynesia": {
+    "name": "French Polynesia",
+    "alpha3Code": "PYF",
+    "latlng": [
+      -15.0,
+      -140.0
+    ]
+  },
+  "French Southern and Antarctic Lands": {
+    "name": "French Southern and Antarctic Lands",
+    "alpha3Code": "ATF",
+    "latlng": [
+      -49.25,
+      69.167
+    ]
+  },
+  "Gabon": {
+    "name": "Gabon",
+    "alpha3Code": "GAB",
+    "latlng": [
+      -1.0,
+      11.75
+    ]
+  },
+  "The Gambia": {
+    "name": "The Gambia",
+    "alpha3Code": "GMB",
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ]
+  },
+  "Georgia": {
+    "name": "Georgia",
+    "alpha3Code": "GEO",
+    "latlng": [
+      42.0,
+      43.5
+    ]
+  },
+  "Germany": {
+    "name": "Germany",
+    "alpha3Code": "DEU",
+    "latlng": [
+      51.0,
+      9.0
+    ]
+  },
+  "Ghana": {
+    "name": "Ghana",
+    "alpha3Code": "GHA",
+    "latlng": [
+      8.0,
+      -2.0
+    ]
+  },
+  "Gibraltar": {
+    "name": "Gibraltar",
+    "alpha3Code": "GIB",
+    "latlng": [
+      36.13333333,
+      -5.35
+    ]
+  },
+  "Greece": {
+    "name": "Greece",
+    "alpha3Code": "GRC",
+    "latlng": [
+      39.0,
+      22.0
+    ]
+  },
+  "Greenland": {
+    "name": "Greenland",
+    "alpha3Code": "GRL",
+    "latlng": [
+      72.0,
+      -40.0
+    ]
+  },
+  "Grenada": {
+    "name": "Grenada",
+    "alpha3Code": "GRD",
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ]
+  },
+  "Guadeloupe": {
+    "name": "Guadeloupe",
+    "alpha3Code": "GLP",
+    "latlng": [
+      16.25,
+      -61.583333
+    ]
+  },
+  "Guam": {
+    "name": "Guam",
+    "alpha3Code": "GUM",
+    "latlng": [
+      13.46666666,
+      144.78333333
+    ]
+  },
+  "Guatemala": {
+    "name": "Guatemala",
+    "alpha3Code": "GTM",
+    "latlng": [
+      15.5,
+      -90.25
+    ]
+  },
+  "Guernsey": {
+    "name": "Guernsey",
+    "alpha3Code": "GGY",
+    "latlng": [
+      49.46666666,
+      -2.58333333
+    ]
+  },
+  "Guinea": {
+    "name": "Guinea",
+    "alpha3Code": "GIN",
+    "latlng": [
+      11.0,
+      -10.0
+    ]
+  },
+  "Guinea-Bissau": {
+    "name": "Guinea-Bissau",
+    "alpha3Code": "GNB",
+    "latlng": [
+      12.0,
+      -15.0
+    ]
+  },
+  "Guyana": {
+    "name": "Guyana",
+    "alpha3Code": "GUY",
+    "latlng": [
+      5.0,
+      -59.0
+    ]
+  },
+  "Haiti": {
+    "name": "Haiti",
+    "alpha3Code": "HTI",
+    "latlng": [
+      19.0,
+      -72.41666666
+    ]
+  },
+  "Heard Island and McDonald Islands": {
+    "name": "Heard Island and McDonald Islands",
+    "alpha3Code": "HMD",
+    "latlng": [
+      -53.1,
+      72.51666666
+    ]
+  },
+  "Holy See": {
+    "name": "Holy See",
+    "alpha3Code": "VAT",
+    "latlng": [
+      41.9,
+      12.45
+    ]
+  },
+  "Honduras": {
+    "name": "Honduras",
+    "alpha3Code": "HND",
+    "latlng": [
+      15.0,
+      -86.5
+    ]
+  },
+  "Hong Kong": {
+    "name": "Hong Kong",
+    "alpha3Code": "HKG",
+    "latlng": [
+      22.25,
+      114.16666666
+    ]
+  },
+  "Hungary": {
+    "name": "Hungary",
+    "alpha3Code": "HUN",
+    "latlng": [
+      47.0,
+      20.0
+    ]
+  },
+  "Iceland": {
+    "name": "Iceland",
+    "alpha3Code": "ISL",
+    "latlng": [
+      65.0,
+      -18.0
+    ]
+  },
+  "India": {
+    "name": "India",
+    "alpha3Code": "IND",
+    "latlng": [
+      20.0,
+      77.0
+    ]
+  },
+  "Indonesia": {
+    "name": "Indonesia",
+    "alpha3Code": "IDN",
+    "latlng": [
+      -5.0,
+      120.0
+    ]
+  },
+  "Ivory Coast": {
+    "name": "Ivory Coast",
+    "alpha3Code": "CIV",
+    "latlng": [
+      8.0,
+      -5.0
+    ]
+  },
+  "Iran": {
+    "name": "Iran",
+    "alpha3Code": "IRN",
+    "latlng": [
+      32.0,
+      53.0
+    ]
+  },
+  "Iraq": {
+    "name": "Iraq",
+    "alpha3Code": "IRQ",
+    "latlng": [
+      33.0,
+      44.0
+    ]
+  },
+  "Republic of Ireland": {
+    "name": "Republic of Ireland",
+    "alpha3Code": "IRL",
+    "latlng": [
+      53.0,
+      -8.0
+    ]
+  },
+  "Isle of Man": {
+    "name": "Isle of Man",
+    "alpha3Code": "IMN",
+    "latlng": [
+      54.25,
+      -4.5
+    ]
+  },
+  "Israel": {
+    "name": "Israel",
+    "alpha3Code": "ISR",
+    "latlng": [
+      31.5,
+      34.75
+    ]
+  },
+  "Italy": {
+    "name": "Italy",
+    "alpha3Code": "ITA",
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ]
+  },
+  "Jamaica": {
+    "name": "Jamaica",
+    "alpha3Code": "JAM",
+    "latlng": [
+      18.25,
+      -77.5
+    ]
+  },
+  "Japan": {
+    "name": "Japan",
+    "alpha3Code": "JPN",
+    "latlng": [
+      36.0,
+      138.0
+    ]
+  },
+  "Jersey": {
+    "name": "Jersey",
+    "alpha3Code": "JEY",
+    "latlng": [
+      49.25,
+      -2.16666666
+    ]
+  },
+  "Jordan": {
+    "name": "Jordan",
+    "alpha3Code": "JOR",
+    "latlng": [
+      31.0,
+      36.0
+    ]
+  },
+  "Kazakhstan": {
+    "name": "Kazakhstan",
+    "alpha3Code": "KAZ",
+    "latlng": [
+      48.0,
+      68.0
+    ]
+  },
+  "Kenya": {
+    "name": "Kenya",
+    "alpha3Code": "KEN",
+    "latlng": [
+      1.0,
+      38.0
+    ]
+  },
+  "Kiribati": {
+    "name": "Kiribati",
+    "alpha3Code": "KIR",
+    "latlng": [
+      1.41666666,
+      173.0
+    ]
+  },
+  "Kuwait": {
+    "name": "Kuwait",
+    "alpha3Code": "KWT",
+    "latlng": [
+      29.5,
+      45.75
+    ]
+  },
+  "Kyrgyzstan": {
+    "name": "Kyrgyzstan",
+    "alpha3Code": "KGZ",
+    "latlng": [
+      41.0,
+      75.0
+    ]
+  },
+  "Laos": {
+    "name": "Laos",
+    "alpha3Code": "LAO",
+    "latlng": [
+      18.0,
+      105.0
+    ]
+  },
+  "Latvia": {
+    "name": "Latvia",
+    "alpha3Code": "LVA",
+    "latlng": [
+      57.0,
+      25.0
+    ]
+  },
+  "Lebanon": {
+    "name": "Lebanon",
+    "alpha3Code": "LBN",
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ]
+  },
+  "Lesotho": {
+    "name": "Lesotho",
+    "alpha3Code": "LSO",
+    "latlng": [
+      -29.5,
+      28.5
+    ]
+  },
+  "Liberia": {
+    "name": "Liberia",
+    "alpha3Code": "LBR",
+    "latlng": [
+      6.5,
+      -9.5
+    ]
+  },
+  "Libya": {
+    "name": "Libya",
+    "alpha3Code": "LBY",
+    "latlng": [
+      25.0,
+      17.0
+    ]
+  },
+  "Liechtenstein": {
+    "name": "Liechtenstein",
+    "alpha3Code": "LIE",
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ]
+  },
+  "Lithuania": {
+    "name": "Lithuania",
+    "alpha3Code": "LTU",
+    "latlng": [
+      56.0,
+      24.0
+    ]
+  },
+  "Luxembourg": {
+    "name": "Luxembourg",
+    "alpha3Code": "LUX",
+    "latlng": [
+      49.75,
+      6.16666666
+    ]
+  },
+  "Macau": {
+    "name": "Macau",
+    "alpha3Code": "MAC",
+    "latlng": [
+      22.16666666,
+      113.55
+    ]
+  },
+  "Republic of Macedonia": {
+    "name": "Republic of Macedonia",
+    "alpha3Code": "MKD",
+    "latlng": [
+      41.83333333,
+      22.0
+    ]
+  },
+  "Madagascar": {
+    "name": "Madagascar",
+    "alpha3Code": "MDG",
+    "latlng": [
+      -20.0,
+      47.0
+    ]
+  },
+  "Malawi": {
+    "name": "Malawi",
+    "alpha3Code": "MWI",
+    "latlng": [
+      -13.5,
+      34.0
+    ]
+  },
+  "Malaysia": {
+    "name": "Malaysia",
+    "alpha3Code": "MYS",
+    "latlng": [
+      2.5,
+      112.5
+    ]
+  },
+  "Maldives": {
+    "name": "Maldives",
+    "alpha3Code": "MDV",
+    "latlng": [
+      3.25,
+      73.0
+    ]
+  },
+  "Mali": {
+    "name": "Mali",
+    "alpha3Code": "MLI",
+    "latlng": [
+      17.0,
+      -4.0
+    ]
+  },
+  "Malta": {
+    "name": "Malta",
+    "alpha3Code": "MLT",
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ]
+  },
+  "Marshall Islands": {
+    "name": "Marshall Islands",
+    "alpha3Code": "MHL",
+    "latlng": [
+      9.0,
+      168.0
+    ]
+  },
+  "Martinique": {
+    "name": "Martinique",
+    "alpha3Code": "MTQ",
+    "latlng": [
+      14.666667,
+      -61.0
+    ]
+  },
+  "Mauritania": {
+    "name": "Mauritania",
+    "alpha3Code": "MRT",
+    "latlng": [
+      20.0,
+      -12.0
+    ]
+  },
+  "Mauritius": {
+    "name": "Mauritius",
+    "alpha3Code": "MUS",
+    "latlng": [
+      -20.28333333,
+      57.55
+    ]
+  },
+  "Mayotte": {
+    "name": "Mayotte",
+    "alpha3Code": "MYT",
+    "latlng": [
+      -12.83333333,
+      45.16666666
+    ]
+  },
+  "Mexico": {
+    "name": "Mexico",
+    "alpha3Code": "MEX",
+    "latlng": [
+      23.0,
+      -102.0
+    ]
+  },
+  "Federated States of Micronesia": {
+    "name": "Federated States of Micronesia",
+    "alpha3Code": "FSM",
+    "latlng": [
+      6.91666666,
+      158.25
+    ]
+  },
+  "Moldova": {
+    "name": "Moldova",
+    "alpha3Code": "MDA",
+    "latlng": [
+      47.0,
+      29.0
+    ]
+  },
+  "Monaco": {
+    "name": "Monaco",
+    "alpha3Code": "MCO",
+    "latlng": [
+      43.73333333,
+      7.4
+    ]
+  },
+  "Mongolia": {
+    "name": "Mongolia",
+    "alpha3Code": "MNG",
+    "latlng": [
+      46.0,
+      105.0
+    ]
+  },
+  "Montenegro": {
+    "name": "Montenegro",
+    "alpha3Code": "MNE",
+    "latlng": [
+      42.5,
+      19.3
+    ]
+  },
+  "Montserrat": {
+    "name": "Montserrat",
+    "alpha3Code": "MSR",
+    "latlng": [
+      16.75,
+      -62.2
+    ]
+  },
+  "Morocco": {
+    "name": "Morocco",
+    "alpha3Code": "MAR",
+    "latlng": [
+      32.0,
+      -5.0
+    ]
+  },
+  "Mozambique": {
+    "name": "Mozambique",
+    "alpha3Code": "MOZ",
+    "latlng": [
+      -18.25,
+      35.0
+    ]
+  },
+  "Myanmar": {
+    "name": "Myanmar",
+    "alpha3Code": "MMR",
+    "latlng": [
+      22.0,
+      98.0
+    ]
+  },
+  "Namibia": {
+    "name": "Namibia",
+    "alpha3Code": "NAM",
+    "latlng": [
+      -22.0,
+      17.0
+    ]
+  },
+  "Nauru": {
+    "name": "Nauru",
+    "alpha3Code": "NRU",
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ]
+  },
+  "Nepal": {
+    "name": "Nepal",
+    "alpha3Code": "NPL",
+    "latlng": [
+      28.0,
+      84.0
+    ]
+  },
+  "Netherlands": {
+    "name": "Netherlands",
+    "alpha3Code": "NLD",
+    "latlng": [
+      52.5,
+      5.75
+    ]
+  },
+  "New Caledonia": {
+    "name": "New Caledonia",
+    "alpha3Code": "NCL",
+    "latlng": [
+      -21.5,
+      165.5
+    ]
+  },
+  "New Zealand": {
+    "name": "New Zealand",
+    "alpha3Code": "NZL",
+    "latlng": [
+      -41.0,
+      174.0
+    ]
+  },
+  "Nicaragua": {
+    "name": "Nicaragua",
+    "alpha3Code": "NIC",
+    "latlng": [
+      13.0,
+      -85.0
+    ]
+  },
+  "Niger": {
+    "name": "Niger",
+    "alpha3Code": "NER",
+    "latlng": [
+      16.0,
+      8.0
+    ]
+  },
+  "Nigeria": {
+    "name": "Nigeria",
+    "alpha3Code": "NGA",
+    "latlng": [
+      10.0,
+      8.0
+    ]
+  },
+  "Niue": {
+    "name": "Niue",
+    "alpha3Code": "NIU",
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ]
+  },
+  "Norfolk Island": {
+    "name": "Norfolk Island",
+    "alpha3Code": "NFK",
+    "latlng": [
+      -29.03333333,
+      167.95
+    ]
+  },
+  "North Korea": {
+    "name": "North Korea",
+    "alpha3Code": "PRK",
+    "latlng": [
+      40.0,
+      127.0
+    ]
+  },
+  "Northern Mariana Islands": {
+    "name": "Northern Mariana Islands",
+    "alpha3Code": "MNP",
+    "latlng": [
+      15.2,
+      145.75
+    ]
+  },
+  "Norway": {
+    "name": "Norway",
+    "alpha3Code": "NOR",
+    "latlng": [
+      62.0,
+      10.0
+    ]
+  },
+  "Oman": {
+    "name": "Oman",
+    "alpha3Code": "OMN",
+    "latlng": [
+      21.0,
+      57.0
+    ]
+  },
+  "Pakistan": {
+    "name": "Pakistan",
+    "alpha3Code": "PAK",
+    "latlng": [
+      30.0,
+      70.0
+    ]
+  },
+  "Palau": {
+    "name": "Palau",
+    "alpha3Code": "PLW",
+    "latlng": [
+      7.5,
+      134.5
+    ]
+  },
+  "Palestine": {
+    "name": "Palestine",
+    "alpha3Code": "PSE",
+    "latlng": [
+      31.9,
+      35.2
+    ]
+  },
+  "Panama": {
+    "name": "Panama",
+    "alpha3Code": "PAN",
+    "latlng": [
+      9.0,
+      -80.0
+    ]
+  },
+  "Papua New Guinea": {
+    "name": "Papua New Guinea",
+    "alpha3Code": "PNG",
+    "latlng": [
+      -6.0,
+      147.0
+    ]
+  },
+  "Paraguay": {
+    "name": "Paraguay",
+    "alpha3Code": "PRY",
+    "latlng": [
+      -23.0,
+      -58.0
+    ]
+  },
+  "Peru": {
+    "name": "Peru",
+    "alpha3Code": "PER",
+    "latlng": [
+      -10.0,
+      -76.0
+    ]
+  },
+  "Philippines": {
+    "name": "Philippines",
+    "alpha3Code": "PHL",
+    "latlng": [
+      13.0,
+      122.0
+    ]
+  },
+  "Pitcairn Islands": {
+    "name": "Pitcairn Islands",
+    "alpha3Code": "PCN",
+    "latlng": [
+      -25.06666666,
+      -130.1
+    ]
+  },
+  "Poland": {
+    "name": "Poland",
+    "alpha3Code": "POL",
+    "latlng": [
+      52.0,
+      20.0
+    ]
+  },
+  "Portugal": {
+    "name": "Portugal",
+    "alpha3Code": "PRT",
+    "latlng": [
+      39.5,
+      -8.0
+    ]
+  },
+  "Puerto Rico": {
+    "name": "Puerto Rico",
+    "alpha3Code": "PRI",
+    "latlng": [
+      18.25,
+      -66.5
+    ]
+  },
+  "Qatar": {
+    "name": "Qatar",
+    "alpha3Code": "QAT",
+    "latlng": [
+      25.5,
+      51.25
+    ]
+  },
+  "Republic of Kosovo": {
+    "name": "Republic of Kosovo",
+    "alpha3Code": "KOS",
+    "latlng": [
+      42.666667,
+      21.166667
+    ]
+  },
+  "Réunion": {
+    "name": "Réunion",
+    "alpha3Code": "REU",
+    "latlng": [
+      -21.15,
+      55.5
+    ]
+  },
+  "Romania": {
+    "name": "Romania",
+    "alpha3Code": "ROU",
+    "latlng": [
+      46.0,
+      25.0
+    ]
+  },
+  "Russia": {
+    "name": "Russia",
+    "alpha3Code": "RUS",
+    "latlng": [
+      60.0,
+      100.0
+    ]
+  },
+  "Rwanda": {
+    "name": "Rwanda",
+    "alpha3Code": "RWA",
+    "latlng": [
+      -2.0,
+      30.0
+    ]
+  },
+  "Saint Barthélemy": {
+    "name": "Saint Barthélemy",
+    "alpha3Code": "BLM",
+    "latlng": [
+      18.5,
+      -63.41666666
+    ]
+  },
+  "Saint Helena": {
+    "name": "Saint Helena",
+    "alpha3Code": "SHN",
+    "latlng": [
+      -15.95,
+      -5.7
+    ]
+  },
+  "Saint Kitts and Nevis": {
+    "name": "Saint Kitts and Nevis",
+    "alpha3Code": "KNA",
+    "latlng": [
+      17.33333333,
+      -62.75
+    ]
+  },
+  "Saint Lucia": {
+    "name": "Saint Lucia",
+    "alpha3Code": "LCA",
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ]
+  },
+  "Saint Martin": {
+    "name": "Saint Martin",
+    "alpha3Code": "MAF",
+    "latlng": [
+      18.08333333,
+      -63.95
+    ]
+  },
+  "Saint Pierre and Miquelon": {
+    "name": "Saint Pierre and Miquelon",
+    "alpha3Code": "SPM",
+    "latlng": [
+      46.83333333,
+      -56.33333333
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "name": "Saint Vincent and the Grenadines",
+    "alpha3Code": "VCT",
+    "latlng": [
+      13.25,
+      -61.2
+    ]
+  },
+  "Samoa": {
+    "name": "Samoa",
+    "alpha3Code": "WSM",
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ]
+  },
+  "San Marino": {
+    "name": "San Marino",
+    "alpha3Code": "SMR",
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ]
+  },
+  "São Tomé and Príncipe": {
+    "name": "São Tomé and Príncipe",
+    "alpha3Code": "STP",
+    "latlng": [
+      1.0,
+      7.0
+    ]
+  },
+  "Saudi Arabia": {
+    "name": "Saudi Arabia",
+    "alpha3Code": "SAU",
+    "latlng": [
+      25.0,
+      45.0
+    ]
+  },
+  "Senegal": {
+    "name": "Senegal",
+    "alpha3Code": "SEN",
+    "latlng": [
+      14.0,
+      -14.0
+    ]
+  },
+  "Serbia": {
+    "name": "Serbia",
+    "alpha3Code": "SRB",
+    "latlng": [
+      44.0,
+      21.0
+    ]
+  },
+  "Seychelles": {
+    "name": "Seychelles",
+    "alpha3Code": "SYC",
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ]
+  },
+  "Sierra Leone": {
+    "name": "Sierra Leone",
+    "alpha3Code": "SLE",
+    "latlng": [
+      8.5,
+      -11.5
+    ]
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "alpha3Code": "SGP",
+    "latlng": [
+      1.36666666,
+      103.8
+    ]
+  },
+  "Sint Maarten": {
+    "name": "Sint Maarten",
+    "alpha3Code": "SXM",
+    "latlng": [
+      18.033333,
+      -63.05
+    ]
+  },
+  "Slovakia": {
+    "name": "Slovakia",
+    "alpha3Code": "SVK",
+    "latlng": [
+      48.66666666,
+      19.5
+    ]
+  },
+  "Slovenia": {
+    "name": "Slovenia",
+    "alpha3Code": "SVN",
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ]
+  },
+  "Solomon Islands": {
+    "name": "Solomon Islands",
+    "alpha3Code": "SLB",
+    "latlng": [
+      -8.0,
+      159.0
+    ]
+  },
+  "Somalia": {
+    "name": "Somalia",
+    "alpha3Code": "SOM",
+    "latlng": [
+      10.0,
+      49.0
+    ]
+  },
+  "South Africa": {
+    "name": "South Africa",
+    "alpha3Code": "ZAF",
+    "latlng": [
+      -29.0,
+      24.0
+    ]
+  },
+  "South Georgia": {
+    "name": "South Georgia",
+    "alpha3Code": "SGS",
+    "latlng": [
+      -54.5,
+      -37.0
+    ]
+  },
+  "South Korea": {
+    "name": "South Korea",
+    "alpha3Code": "KOR",
+    "latlng": [
+      37.0,
+      127.5
+    ]
+  },
+  "South Sudan": {
+    "name": "South Sudan",
+    "alpha3Code": "SSD",
+    "latlng": [
+      7.0,
+      30.0
+    ]
+  },
+  "Spain": {
+    "name": "Spain",
+    "alpha3Code": "ESP",
+    "latlng": [
+      40.0,
+      -4.0
+    ]
+  },
+  "Sri Lanka": {
+    "name": "Sri Lanka",
+    "alpha3Code": "LKA",
+    "latlng": [
+      7.0,
+      81.0
+    ]
+  },
+  "Sudan": {
+    "name": "Sudan",
+    "alpha3Code": "SDN",
+    "latlng": [
+      15.0,
+      30.0
+    ]
+  },
+  "Suriname": {
+    "name": "Suriname",
+    "alpha3Code": "SUR",
+    "latlng": [
+      4.0,
+      -56.0
+    ]
+  },
+  "Svalbard and Jan Mayen": {
+    "name": "Svalbard and Jan Mayen",
+    "alpha3Code": "SJM",
+    "latlng": [
+      78.0,
+      20.0
+    ]
+  },
+  "Swaziland": {
+    "name": "Swaziland",
+    "alpha3Code": "SWZ",
+    "latlng": [
+      -26.5,
+      31.5
+    ]
+  },
+  "Sweden": {
+    "name": "Sweden",
+    "alpha3Code": "SWE",
+    "latlng": [
+      62.0,
+      15.0
+    ]
+  },
+  "Switzerland": {
+    "name": "Switzerland",
+    "alpha3Code": "CHE",
+    "latlng": [
+      47.0,
+      8.0
+    ]
+  },
+  "Syria": {
+    "name": "Syria",
+    "alpha3Code": "SYR",
+    "latlng": [
+      35.0,
+      38.0
+    ]
+  },
+  "Taiwan": {
+    "name": "Taiwan",
+    "alpha3Code": "TWN",
+    "latlng": [
+      23.5,
+      121.0
+    ]
+  },
+  "Tajikistan": {
+    "name": "Tajikistan",
+    "alpha3Code": "TJK",
+    "latlng": [
+      39.0,
+      71.0
+    ]
+  },
+  "Tanzania": {
+    "name": "Tanzania",
+    "alpha3Code": "TZA",
+    "latlng": [
+      -6.0,
+      35.0
+    ]
+  },
+  "Thailand": {
+    "name": "Thailand",
+    "alpha3Code": "THA",
+    "latlng": [
+      15.0,
+      100.0
+    ]
+  },
+  "East Timor": {
+    "name": "East Timor",
+    "alpha3Code": "TLS",
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ]
+  },
+  "Togo": {
+    "name": "Togo",
+    "alpha3Code": "TGO",
+    "latlng": [
+      8.0,
+      1.16666666
+    ]
+  },
+  "Tokelau": {
+    "name": "Tokelau",
+    "alpha3Code": "TKL",
+    "latlng": [
+      -9.0,
+      -172.0
+    ]
+  },
+  "Tonga": {
+    "name": "Tonga",
+    "alpha3Code": "TON",
+    "latlng": [
+      -20.0,
+      -175.0
+    ]
+  },
+  "Trinidad and Tobago": {
+    "name": "Trinidad and Tobago",
+    "alpha3Code": "TTO",
+    "latlng": [
+      11.0,
+      -61.0
+    ]
+  },
+  "Tunisia": {
+    "name": "Tunisia",
+    "alpha3Code": "TUN",
+    "latlng": [
+      34.0,
+      9.0
+    ]
+  },
+  "Turkey": {
+    "name": "Turkey",
+    "alpha3Code": "TUR",
+    "latlng": [
+      39.0,
+      35.0
+    ]
+  },
+  "Turkmenistan": {
+    "name": "Turkmenistan",
+    "alpha3Code": "TKM",
+    "latlng": [
+      40.0,
+      60.0
+    ]
+  },
+  "Turks and Caicos Islands": {
+    "name": "Turks and Caicos Islands",
+    "alpha3Code": "TCA",
+    "latlng": [
+      21.75,
+      -71.58333333
+    ]
+  },
+  "Tuvalu": {
+    "name": "Tuvalu",
+    "alpha3Code": "TUV",
+    "latlng": [
+      -8.0,
+      178.0
+    ]
+  },
+  "Uganda": {
+    "name": "Uganda",
+    "alpha3Code": "UGA",
+    "latlng": [
+      1.0,
+      32.0
+    ]
+  },
+  "Ukraine": {
+    "name": "Ukraine",
+    "alpha3Code": "UKR",
+    "latlng": [
+      49.0,
+      32.0
+    ]
+  },
+  "United Arab Emirates": {
+    "name": "United Arab Emirates",
+    "alpha3Code": "ARE",
+    "latlng": [
+      24.0,
+      54.0
+    ]
+  },
+  "United Kingdom": {
+    "name": "United Kingdom",
+    "alpha3Code": "GBR",
+    "latlng": [
+      54.0,
+      -2.0
+    ]
+  },
+  "United States": {
+    "name": "United States",
+    "alpha3Code": "USA",
+    "latlng": [
+      38.0,
+      -97.0
+    ]
+  },
+  "Uruguay": {
+    "name": "Uruguay",
+    "alpha3Code": "URY",
+    "latlng": [
+      -33.0,
+      -56.0
+    ]
+  },
+  "Uzbekistan": {
+    "name": "Uzbekistan",
+    "alpha3Code": "UZB",
+    "latlng": [
+      41.0,
+      64.0
+    ]
+  },
+  "Vanuatu": {
+    "name": "Vanuatu",
+    "alpha3Code": "VUT",
+    "latlng": [
+      -16.0,
+      167.0
+    ]
+  },
+  "Venezuela": {
+    "name": "Venezuela",
+    "alpha3Code": "VEN",
+    "latlng": [
+      8.0,
+      -66.0
+    ]
+  },
+  "Vietnam": {
+    "name": "Vietnam",
+    "alpha3Code": "VNM",
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ]
+  },
+  "Wallis and Futuna": {
+    "name": "Wallis and Futuna",
+    "alpha3Code": "WLF",
+    "latlng": [
+      -13.3,
+      -176.2
+    ]
+  },
+  "Western Sahara": {
+    "name": "Western Sahara",
+    "alpha3Code": "ESH",
+    "latlng": [
+      24.5,
+      -13.0
+    ]
+  },
+  "Yemen": {
+    "name": "Yemen",
+    "alpha3Code": "YEM",
+    "latlng": [
+      15.0,
+      48.0
+    ]
+  },
+  "Zambia": {
+    "name": "Zambia",
+    "alpha3Code": "ZMB",
+    "latlng": [
+      -15.0,
+      30.0
+    ]
+  },
+  "Zimbabwe": {
+    "name": "Zimbabwe",
+    "alpha3Code": "ZWE",
+    "latlng": [
+      -20.0,
+      30.0
+    ]
+  }
+}

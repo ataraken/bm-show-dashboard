@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>BABYMETAL Show Dashboard</title>
+<!-- 1. IMPORT THE VISUALISATION'S CSS STYLING -->
+<link rel="stylesheet" href="static/css/style.css" type="" media="screen" />
+<body>
+  <div id='chart'>
+    <!-- A HEADER WITH TITLE AND SOME EXPLANATORY INFO -->
+    <div id='title'>BABYMETAL Show Dashboard</div> 
+    <div id="info"> 
+      The data used was scraped Wikipedia using the <a href='https://ja.wikipedia.org/wiki/BABYMETAL'>list of show by country</a> as a starting point. The accompanying Github repo is <a href='http://github.com/'>here</a>. 
+    </div>
+    <!-- 2. THE PLACEHOLDERS FOR OUR VISUAL COMPONENTS  -->
+    <div id="bmviz">
+      <div id="show-menu">
+        <!-- BEGIN MENU-BAR -->
+        <div id="year-select">
+          Year 
+          <select></select>
+        </div>
+        <div id="country-select">
+          Country 
+          <select></select>
+        </div>
+      </div>
+      <!-- END MENU-BAR  -->
+      <!-- BEGIN NOBEL-VIZ COMPONENTS -->
+      <div id='container' class='_dev'>
+        <div id="bm-show-map">
+          <div id="map-tooltip">
+            <h2></h2>
+            <p></p>
+          </div>
+        </div>
+      </div>
+      <!-- END NOBEL-VIZ COMPONENTS -->
+    </div>
+  </div>
+  <!-- 3. THE JAVASCRIPT FILES -->
+  <!-- THIRD-PARTY JAVASCRIPT LIBRARIES, MAINLY D3  -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+  <!-- THE JAVASCRIPT FOR OUR NOBEL ELEMENTS -->
+
+  <script src="static/js/bmviz_dataset.js" ></script>
+  <script src="static/js/bmviz_menu.js" ></script>
+  <script src="static/js/bmviz_map.js" ></script>
+  <script src="static/js/bmviz_main.js" ></script>
+</body>
